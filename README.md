@@ -1,14 +1,14 @@
  ## photography-website
- . displays sample pictures of my favorite work
+  .displays sample pictures of my favorite work
 
  ## By MadlynKemoi
 
  ## Web design
 
- <my website design image>
+ <website design-figma
 
  ## Description
-   A photography website show casing a sample of my favorite photography works,my photgraphy wprk covers family photography,wedding,birthday,picnic and graduation photography.
+   A photography website show casing a sample of my favorite photography works,my photgraphy work covers family photography,wedding,birthday,picnic and graduation photography.
  ## Setup
   1. git clone https://github.com/MadlynKemoi/Photography-website
   2. cd git-test
@@ -20,6 +20,7 @@
   1.html
   2.css
   3.github
+  4.figma
 
   #Live demo
   https://github.com/MadlynKemoi/Photography-website
