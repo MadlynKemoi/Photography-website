@@ -3,9 +3,9 @@
 
  ## By MadlynKemoi
 
- ## Web design
+ ## Web design 
 
- <website design-figma
+ [click here]"https://www.figma.com/file/QW7khPHZtHGUwFOAOQ4yS8/MADLYN'S--FIRST-PHOTOGRAPHY-WEBSITE?node-id=1%3A2"
 
  ## Description
    A photography website show casing a sample of my favorite photography works,my photgraphy work covers family photography,wedding,birthday,picnic and graduation photography.
@@ -26,4 +26,4 @@
   https://github.com/MadlynKemoi/Photography-website
 
   ## License
-  -This project is an [MIT]
+  -This project is an [MIT](LICENSE)
