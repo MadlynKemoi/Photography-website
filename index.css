@@ -1,0 +1,14 @@
+h1{
+    font-style: bold;
+    background-color:pink;
+}
+p{
+    font-style: italic;
+}
+h3{
+    background-color: pink;
+}
+h4{
+    font-style: oblique;
+    background-color: pink;
+}
