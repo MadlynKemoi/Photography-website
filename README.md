@@ -23,7 +23,6 @@
   4.figma
 
   #Live demo
-  https://github.com/MadlynKemoi/Photography-website
-
+   view  [live](https://madlynkemoi.github.io/Photography-website)
   ## License
   -This project is an [MIT](LICENSE)
